@@ -1,0 +1,30 @@
+# Android Studio
+*.iml
+.idea/caches/
+.idea/libraries/
+.idea/modules/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/appInsightsSettings.xml
+.idea/deploymentTargetSelector.xml
+
+# Gradle
+.gradle/
+
+# Local configuration
+/local.properties
+
+# Build output
+/build/
+/app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# macOS
+.DS_Store
+
+# Hilt training documentation
+/app/src/main/java/com/vibh/hiltlearninglab/docs/
